@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1680209924 source:e:\universidad\instructorías\programación ii\guías\guía 4\recursos\herenciamultiple2\main.cpp
+	<iostream>
+	"AutoMotor.h"
+
+1680210124 e:\universidad\instructorías\programación ii\guías\guía 4\recursos\herenciamultiple2\automotor.h
+	"AutoGasolina.h"
+	"AutoDiesel.h"
+
+1680210123 e:\universidad\instructorías\programación ii\guías\guía 4\recursos\herenciamultiple2\autogasolina.h
+	"Auto.h"
+
+1680210124 e:\universidad\instructorías\programación ii\guías\guía 4\recursos\herenciamultiple2\auto.h
+
+1680210124 e:\universidad\instructorías\programación ii\guías\guía 4\recursos\herenciamultiple2\autodiesel.h
+	"Auto.h"
+
+1681434114 source:c:\users\mineducyt\downloads\ejemplos (1)\herenciamultiple2\main.cpp
+	<iostream>
+	"AutoMotor.h"
+
+1681433750 c:\users\mineducyt\downloads\ejemplos (1)\herenciamultiple2\automotor.h
+	"AutoGasolina.h"
+	"AutoDiesel.h"
+
+1681433646 c:\users\mineducyt\downloads\ejemplos (1)\herenciamultiple2\autogasolina.h
+	"Auto.h"
+
+1681433673 c:\users\mineducyt\downloads\ejemplos (1)\herenciamultiple2\auto.h
+	<iostream>
+
+1681433660 c:\users\mineducyt\downloads\ejemplos (1)\herenciamultiple2\autodiesel.h
+	"Auto.h"
+
